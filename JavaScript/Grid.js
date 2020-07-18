@@ -193,7 +193,7 @@ function remember() {
 //Reminder when Multiple Destinations is selected
 function remind() {
     swal({
-        title: "Please Read!!",
+        title: ">>Mars Manual<<",
         text: "In Multiple Destinations Case: \n\n First Click on white Cell will convert it to a Wall\n\nSecond click on same cell will convert it into Destination\n\nThird Click will make it white Cell again",
         button: "Let's Go",
     });
